@@ -10,11 +10,11 @@
 
 - [Projetos](#rocket-projetos)
 
-  - [Chapter I - Fundamentos do React](#one-chapter-i)
+  - [Chapter I - Fundamentos do NodeJS](#one-chapter-i)
     - [finAPI](#finapi)
       <br> - [Desafio 01](#conceitos-do-nodejs) : Conceitos do Node.js
       <br> - [Desafio 02](#trabalhando-com-middlewares) : Trabalhando com middlewares
-      <br> - [Desafio 03](#corrigindo-o-codigo) : Corrigindo o código
+      <br> - [Desafio 03](#corrigindo-o-código) : Corrigindo o código
 
 <br>
 
