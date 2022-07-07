@@ -57,7 +57,7 @@
       "error",
       { "devDependencies": ["**/*.spec.js"] }
     ],
-    "prettier/prettier": ["error", { "endOfLine": "off" }],
+    "prettier/prettier": ["error", { "endOfLine": "auto" }],
     "no-use-before-define": "off"
   },
   "settings": {
