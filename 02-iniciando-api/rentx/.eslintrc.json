@@ -18,6 +18,7 @@
   "plugins": ["@typescript-eslint", "eslint-plugin-import-helpers", "prettier"],
   "rules": {
     "camelcase": "off",
+
     "import/no-unresolved": "error",
     "@typescript-eslint/naming-convention": [
       "error",
@@ -56,7 +57,7 @@
       "error",
       { "devDependencies": ["**/*.spec.js"] }
     ],
-    "prettier/prettier": "error",
+    "prettier/prettier": ["error", { "endOfLine": "off" }],
     "no-use-before-define": "off"
   },
   "settings": {
